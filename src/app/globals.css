@@ -20,7 +20,11 @@
 }
 
 body {
-  background: var(--background);
+  background: #d1d5db;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
